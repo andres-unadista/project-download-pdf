@@ -18,8 +18,8 @@
     "@angular/platform-browser": "~12.0.3",
     "@angular/platform-browser-dynamic": "~12.0.3",
     "@angular/router": "~12.0.3",
-    "html2canvas": "*",
-    "jspdf": "^2.1.1",
+    "bootstrap": "^5.0.1",
+    "cards": "file:../../LIBRARIES/libreria_tarjetas/cards-0.0.1.tgz",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
